@@ -2,7 +2,7 @@
 
 This is a prototype (or design study) of an Android MP3 player app, showing subtitles. The subtitles must be stored in the "composer" frame of the ID3 tag in SRT format. The MP3 file TTS_Google_de-DE-Wavenet-E.mp3 is example content for that player. The player is considered a newly designed enhanced podcast player.
 
-Let's revitalize an old and forgotten idea, the so called enhanced podcast. The idea is from 2005, as shown in this Google Trends diagram. This original idea is from Apple. See also the definition od enhanced podcast at PCMag encyclopedy [1].
+This way, let's revitalize an old and forgotten idea, the so called enhanced podcast. The idea is from 2005, as shown in this Google Trends diagram. This original idea is from Apple. See also the definition of enhanced podcast at PCMag encyclopedy [1].
 
 ![Google Treds of enhanced podcast](enhanced_podcast_trends.png)
 
@@ -23,7 +23,7 @@ The user interaction concept is: During the audio is playing, one can see synchr
 
 Actually, this prototype player expects subtitles to be in the TCOM frame (the composer frame) of the ID3 tag of the MP3 file.  They must be in formatted in the SRT format. In later development, the subtitles must be stored in  either a SYLT or a TXXX frame of the ID3 tag, so that the TCOM frame is no longer misused. The TCOM frame has been chosen, because an Android developer can read it easyer than a SYLT or TXXX frame.
 
-###See also
+### See also
 
 [1]	PCMag encyclopedy: Definition of enhanced podcast,
 https://www.pcmag.com/encyclopedia/term/enhanced-podcast 
