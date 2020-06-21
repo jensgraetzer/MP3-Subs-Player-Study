@@ -18,7 +18,7 @@ What is your experience of this player? Check it out! You can import this Github
 
 ![wireframe](wireframe.png)
 
-As you can see at the wireframe, there are three activities. First is MainActivity. It shows a list view of all the music albums, provided by the media store. You select an album by tapping on it. Second is TitleActivity. It shows a list view of all the titles of the album selected. You select a title by tapping on it. This opens the last activity, the PlayerActivity. The audio playing is started. 
+The wireframe showsnthe three activities. First is MainActivity. It shows a list view of all the music albums, provided by the media store. You select an album by tapping on it. Second is TitleActivity. It shows a list view of all the titles of the album selected. You select a title by tapping on it. This opens the last activity, the PlayerActivity. The audio playing is started. 
 
 The user interaction concept is: During the audio is playing, one can see synchronous subtitles. One can navigate to a previous or to a following subtitle by tapping at the left and right double arrow buttons at the bottom. Pay attention, that the playing each time starts at the start of the subtitle! So it is easy to repeat the title last heared. With a tap on the play button one can pause the playing. One can repeat the actual subtitle by tapping at the repeat button next to the play button. At the top of the screen at the left and the right side there are buttons for navigation to the previous and the following title in the album. For choosing another album, one needs to return to the MainActivity.
 
