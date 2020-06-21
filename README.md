@@ -8,7 +8,7 @@ Multimedia podcasts have been widely available by Apples iPod in 2005. Apple cal
 
 ![Google Treds of enhanced podcast](enhanced_podcast_trends.png)
 
-A multimedia podcast is an audio record stored in a single file together with additional information and interactivity. The listener experience, of course, includes listening to an audio record and the navigation between chapters. Images and other multimedia features are possible. 
+A multimedia podcast is an audio record stored in a single file together with additional information and interactivity. The listener heares the audio and sees text and images at the display. The touchscreen display allows smart navigation between chapters or parts of the audio.
 
 The goal of this new project is a prototype or design study of a multimedia MP3 player. This player shows lyrics in an almost karaoke style way, and allows easy navigation within the audio. The support of images may be added later. The additional data is stored in the ID3 tag of the MP3 file. This player runs on Android smartphones and tablets. 
 
