@@ -12,7 +12,7 @@ A multimedia podcast is an audio record stored in a single file together with ad
 
 The goal of this new project is a prototype or design study of a multimedia MP3 player. This player shows lyrics in an almost karaoke style way, and allows easy navigation within the audio. The support of images may be added later. The additional data is stored in the ID3 tag of the MP3 file. This player runs on Android smartphones and tablets. 
 
-So, this prototype is not an exact remake of the original enhanced podcast. It is a design study, made in order to test new UI features. The target users for this player are students, learning foreign languages from multimedia podcasts.
+So, this prototype is not an exact remake of the original enhanced podcast. It is a UX design study. The target users are students, learning foreign languages from multimedia podcasts.
 
 The original enhanced podcasts are build upon Apples m4a audio file format. In this new project uses the MP3 file format instead. And, instead of navigating between chapters, the navigation is between subtitles.
 
