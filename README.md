@@ -1,7 +1,7 @@
 # MP3 Subs player
 
 ## Abstract
-This Android project is a prototype (or design study) of an Android MP3 player app, showing subtitles. The subtitles must be stored in the "composer" frame of the ID3 tag in SRT format. The MP3 file __TTS_de-DE-Wavenet-E.mp3__ is example content for that player. The player is considered a multimedia podcast player.
+This Android project is a UX design study (or prototype) of an Android MP3 player app, showing subtitles. The subtitles must be stored in the "composer" frame of the ID3 tag in SRT format. The MP3 file __TTS_de-DE-Wavenet-E.mp3__ is example content for that player. The player is considered a multimedia podcast player.
 
 ## Multimedia (enhanced) podcasts
 Multimedia podcasts have been widely available by Apples iPod in 2005. Apple called them 'enhance podcast'. See also the definition of enhanced podcast at PCMag encyclopedy [1]. After 2005 Apples enhanced podcast lost popularity, as shown in this Google Trends diagram. 
