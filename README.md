@@ -14,7 +14,7 @@ So, this prototype is not an exact remake of the original enhanced podcast. It i
 
 The original enhanced podcasts are build upon Apples m4a audio file format. In this new project uses the MP3 file format instead. And, instead of navigating between chapters, the navigation is between subtitles.
 
-What is your experience of this player? Check it out! You can import this Github project into Android Studio, than run it on an Android device. The project contains the MP3 file __TTS_Google_de-DE-Wavenet-E.mp3__ with subtitles for this player app. (You need to restart the app, if you imported an MP3 file after launching the player. This is a bug, that will be fixed later.)
+What is your experience of this player? Check it out! You can import this Github project into Android Studio, than run it on an Android device. The project contains the MP3 file __TTS_de-DE-Wavenet-E.mp3__ with subtitles for this player app. (You need to restart the app, if you imported an MP3 file after launching the player. This is a bug, that will be fixed later.)
 
 ![wireframe](wireframe.png)
 
