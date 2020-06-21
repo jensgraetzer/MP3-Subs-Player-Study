@@ -532,7 +532,8 @@ public class PlayerActivity extends AppCompatActivity {
 
         // Zeilenweises Lesen, Einsortieren der Einträge in eine Liste.
         // Lies unbedingt //https://stackoverflow.com/questions/1096621/read-string-line-by-line
-        String[] lines = subsText.split("\n");  // TODO: Fit machen für viele Zeilenumbruch-Varianten!
+        String sourceTextEol = "(<br>)";    // Im ID3v2 Tag muss nun "<br>" anstelle Newline "\n" stehen!
+        String[] lines = subsText.split(sourceTextEol);
         Log.i(TAG, "SubtitleData Lines=" + lines.length);
         //tvSubtitle.setText("SubtitleData Lines=" + lines.length);  //Test
         String txt = "";
