@@ -1,7 +1,9 @@
 # MP3 Subs player
 
+## Abstract
 This is a prototype (or design study) of an Android MP3 player app, showing subtitles. The subtitles must be stored in the "composer" frame of the ID3 tag in SRT format. The MP3 file TTS_Google_de-DE-Wavenet-E.mp3 is example content for that player. The player is considered a multimedia podcast player.
 
+## Multimedia (enhanced) podcasts
 Multimedia podcasts have been widely available by Apples iPod in 2005. Apple called them 'enhance podcast'. See also the definition of enhanced podcast at PCMag encyclopedy [1]. After 2005 Apples enhanced podcast lost popularity, as shown in this Google Trends diagram. 
 
 ![Google Treds of enhanced podcast](enhanced_podcast_trends.png)
@@ -14,7 +16,8 @@ So, this prototype is not an exact remake of the original enhanced podcast. It i
 
 The original enhanced podcasts are build upon Apples m4a audio file format. In this new project uses the MP3 file format instead. And, instead of navigating between chapters, the navigation is between subtitles.
 
-Check it out! You can import this Github project into Android Studio, than run it on an Android emulator or device. The project contains the MP3 file __TTS_de-DE-Wavenet-E.mp3__ with subtitles for this player app. (You need to restart the app, if you imported an MP3 file after launching the player. This is a bug, that will be fixed later.)
+## Checking out the player study
+You can import this Github project into Android Studio, than run it on an Android emulator or device. The project contains the MP3 file __TTS_de-DE-Wavenet-E.mp3__ with subtitles for this player app. (You need to restart the app, if you imported an MP3 file after launching the player. This is a bug, that will be fixed later.)
 
 ![wireframe](wireframe.png)
 
