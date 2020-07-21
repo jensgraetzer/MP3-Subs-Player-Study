@@ -1,4 +1,4 @@
-# MP3 Subs player
+# MP3 Subs Player
 
 ## Abstract
 This Android project is a UX design study (or prototype) of an Android MP3 player app, showing subtitles. The subtitles must be stored in the "composer" frame of the ID3 tag in SRT format. The MP3 file __TTS_de-DE-Wavenet-E.mp3__ is example content for that player. The player is considered to be a multimedia podcast player.
